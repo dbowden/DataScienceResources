@@ -8,13 +8,13 @@ This is a list of resources that I have found useful (or expect to find useful s
 
 [Downey, *Think Stats*](https://greenteapress.com/thinkstats/)
 
-Jenkins-Smith et al., *Quantitative Research Methods for Political Science* [Book](https://bookdown.org/josiesmith/qrmbook/) | [Lab Guide](https://bookdown.org/josiesmith/labbook/)
+[Jenkins-Smith et al., *Quantitative Research Methods for Political Science* Book](https://bookdown.org/josiesmith/qrmbook/) | [Lab Guide](https://bookdown.org/josiesmith/labbook/)
 
 [($) Freedman, et al. *Statistics, 4th ed.*](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/ref=sr_1_5?dchild=1&keywords=statistics+textbook&qid=1594321457&sr=8-5)
 
 [Downey, *Think Bayes*](https://greenteapress.com/wp/think-bayes/)
 
-[($) Gelman and Hill, *Data Analysis Using Regression and Multilevel/Hierarchial Models](https://smile.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Analytical-ebook/dp/B01LYX8AKU/ref=sr_1_1?dchild=1&keywords=gelman+and+hill&qid=1590165473&sr=8-1)
+[($) Gelman and Hill, *Data Analysis Using Regression and Multilevel/Hierarchial Models*](https://smile.amazon.com/Analysis-Regression-Multilevel-Hierarchical-Analytical-ebook/dp/B01LYX8AKU/ref=sr_1_1?dchild=1&keywords=gelman+and+hill&qid=1590165473&sr=8-1)
 
 ## Machine Learning Theory
 
