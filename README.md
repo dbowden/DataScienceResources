@@ -12,7 +12,7 @@ This is a list of resources that I have found useful (or expect to find useful s
 
 [($) Freedman, et al. *Statistics, 4th ed.*](https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728/ref=sr_1_5?dchild=1&keywords=statistics+textbook&qid=1594321457&sr=8-5)
 
-[(4) Wasserman, *All of Statistics*](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225)
+[($) Wasserman, *All of Statistics*](https://www.amazon.com/All-Statistics-Statistical-Inference-Springer/dp/1441923225)
 
 [Downey, *Think Bayes*](https://greenteapress.com/wp/think-bayes/)
 
