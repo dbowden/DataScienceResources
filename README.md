@@ -6,6 +6,8 @@ This is a list of resources that I have found useful (or expect to find useful s
 
 [($) Berry and Sanders, *Understanding Multivariate Research*](https://www.amazon.com/Understanding-Multivariate-Research-Beginning-Scientists/dp/0813399718)
 
+[($) Achen, *Interpreting and Using Regression*](https://www.amazon.com/Interpreting-Regression-Quantitative-Applications-Sciences/dp/0803919158)
+
 [Downey, *Think Stats*](https://greenteapress.com/thinkstats/)
 
 [Jenkins-Smith et al., *Quantitative Research Methods for Political Science* Book](https://bookdown.org/josiesmith/qrmbook/) | [Lab Guide](https://bookdown.org/josiesmith/labbook/)
